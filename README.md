@@ -1,10 +1,4 @@
 # Masters-Data-Science-DS745-Visualization-LPTSP
 
-### Shortest Network Path
-Welcome! We set off this network analysis project to find the shortest path between all US state capitols, visiting all capitols once and with one tour. This network optimization problem is crucial for many industry applications:
-
--	Manufacturing sequencing (e.g., steel, microelectronics)
--	Vehicle routing logistics (e.g., school bus, garbage truck)
--	Automated medical imaging positioning (e.g., MRI, XRAY)
-
-As we explore networks, we will apply linear programming (LP), a robust algorithm. LP is a mathematical method for optimizing an objective while following linear constraints. It formulates problems by linearly adding coefficients and decision variables to achieve a set goal, minimizing or maximizing the objective.
+### Oxford Dictionary Parsing and Sentiment Analysis
+Are you ready to join me on cutting-edge natural language processing (NLP) AI? I'm delving into the intriguing world of pre-trained NLP transformers for the first time. Therefore, I selected Python to experiment and analyzed all 35,000 unique words of the Oxford Dictionary for sentiment. To analyze sentiment, I will borrow insights from an NLP transformer model trained by Amazon product reviews (Peirsman, 2023). Join me and explore the English language, tokenize words, unveil sentiments in English vocabulary, and learn about NLP transformers.
